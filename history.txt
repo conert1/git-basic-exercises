@@ -1,0 +1,1000 @@
+ 1048  mongodb --v
+ 1049  mongo
+ 1050  sudo systemctl start mongod
+ 1051  sudo apt-key adv --keyserver hkp://keyserver.ubuntu.com:80 --recv 2930ADAE8CAF5059EE73BB4B58712A2291FA4AD5
+ 1052  echo "deb [ arch=amd64,arm64 ] https://repo.mongodb.org/apt/ubuntu xenial/mongodb-org/3.6 multiverse" | sudo tee /etc/apt/sources.list.d/mongodb-org-3.6.list
+ 1053  sudo apt-get update
+ 1054  sudo apt-get install -y mongodb-org
+ 1055  sudo service mongod start
+ 1056  sudo apt-get install -y mongodb-org
+ 1057  apt --fix-broken install
+ 1058  apt --fix mongo
+ 1059  apt --fix-mongo
+ 1060  sudo apt remove mongo*
+ 1061  sudo apt-get install -y mongodb-org
+ 1062  sudo systemctl start mongod
+ 1063  sudo systemctl enable mongod
+ 1064  sudo service mongod status 
+ 1065  mongo
+ 1066  sudo systemctl start mongod
+ 1067  mongo
+ 1068  sudo apt remove mongo*
+ 1069  code .
+ 1070  mongo
+ 1071  sudo apt update
+ 1072  sudo apt upgrade
+ 1073  sudo apt-key adv --keyserver hkp://keyserver.ubuntu.com:80 --recv-keys 4B7C549A058F8B6B
+ 1074  sudo nano /etc/apt/sources.list.d/mongodb-org.list
+ 1075  sudo apt update
+ 1076  sudo apt install mongodb-org
+ 1077  sudo systemctl start mongod
+ 1078  sudo systemctl enable mongod
+ 1079  sudo systemctl status mongod
+ 1080  mongo
+ 1081  sudo systemctl status mongod
+ 1082  df -h
+ 1083  mongod --repair
+ 1084  sudo journalctl -xe
+ 1085  sudo cat /var/log/mongodb/mongod.log
+ 1086  node --version
+ 1087  mongo
+ 1088  sudo service mongod status
+ 1089  sudo apt-get purge mongodb-org*
+ 1090  sudo rm -r /var/log/mongodb
+ 1091  sudo rm -r /var/lib/mongodb
+ 1092  sudo apt-get install -y mongodb-org
+ 1093  sudo systemctl start mongod
+ 1094  sudo systemctl status mongod
+ 1095  mongo
+ 1096  nom install mongoose
+ 1097  npm install mongoose
+ 1098  node
+ 1099  node -version
+ 1100  node --version
+ 1101  node -v
+ 1102  npm install -g n
+ 1103  n latest
+ 1104  nvm --version
+ 1105  curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.35.3/install.sh | bash
+ 1106  node -v
+ 1107  nvm install node --reinstall-packages-from=node
+ 1108  node -v
+ 1109  nvm install node --reinstall-packages-from=node
+ 1110  sudo apt-get install nodejs
+ 1111  node -v
+ 1112  mongoose
+ 1113  sudo updatde
+ 1114  sudo update
+ 1115  sudo apt  update
+ 1116  npm install mongoose
+ 1117  npm install dotenv
+ 1118  curl -fsSL https://deb.nodesource.com/setup_18.x | sudo -E bash - &&sudo apt-get install -y nodejs
+ 1119  node -v
+ 1120  curl -fsSL https://deb.nodesource.com/setup_18.x | bash - &&apt-get install -y nodejs
+ 1121  curl -fsSL https://deb.nodesource.com/setup_18.x | bash - &&sudo apt-get install -y nodejs
+ 1122  curl -fsSL https://deb.nodesource.com/setup_18.x | bash - && sudo apt-get install -y nodejs
+ 1123  sudo curl -fsSL https://deb.nodesource.com/setup_18.x | bash - &&apt-get install -y nodejs
+ 1124  curl -fsSL https://deb.nodesource.com/setup_16.x | sudo -E bash - &&sudo apt-get install -y nodejs
+ 1125  node -v
+ 1126  sudo systemctl stop mongod
+ 1127  sudo curl -fsSL https://deb.nodesource.com/setup_18.x | bash - &&apt-get install -y nodejs
+ 1128  curl -fsSL https://deb.nodesource.com/setup_16.x | sudo -E bash - &&sudo apt-get install -y nodejs
+ 1129  sudo apt-key adv --keyserver hkp://keyserver.ubuntu.com:80 --recv 656408E390CFB1F5
+ 1130  sudo apt update
+ 1131  sudo apt-key adv --keyserver hkp://keyserver.ubuntu.com:80 --recv 656408E390CFB1F5
+ 1132  curl -fsSL https://deb.nodesource.com/setup_16.x | sudo -E bash - &&sudo apt-get install -y nodejs
+ 1133  code .
+ 1134  npm run devStart
+ 1135  npm i express mongoose
+ 1136  npm run devStart
+ 1137  npm install mongoose
+ 1138  node -v
+ 1139  sudo apt-get install nodejs
+ 1140  node -v
+ 1141  npm install dotenv
+ 1142  npm run devStart
+ 1143  mongo
+ 1144  curl -fsSL https://deb.nodesource.com/setup_current.x | sudo -E bash -
+ 1145  node -v
+ 1146  sudo apt-get install -y nodejs
+ 1147  node -v
+ 1148  nvm --version
+ 1149  nvm install node --reinstall-packages-from=node
+ 1150  sudo apt-get install nodejs
+ 1151  npm install mongoose
+ 1152  npm run devStart
+ 1153  node -v
+ 1154  curl -sL https://deb.nodesource.com/setup_14.x | sudo bash -
+ 1155  cat /etc/apt/sources.list.d/nodesource.list
+ 1156  curl -fsSL https://rpm.nodesource.com/setup_18.x | bash -
+ 1157  curl -fsSL https://rpm.nodesource.com/setup_18.x | sudo bash -
+ 1158  curl -fsSL https://deb.nodesource.com/setup_18.x | sudo -E bash - &&sudo apt-get install -y nodejs
+ 1159  node -v
+ 1160  npm install mongoose
+ 1161  node -v
+ 1162  curl -fsSL https://deb.nodesource.com/setup_18.x | sudo -E bash - &&sudo apt-get install -y nodejs
+ 1163  sudo apt-key adv --keyserver keyserver.ubuntu.com --recv-keys KEY_ID
+ 1164  sudo apt-key adv --keyserver keyserver.ubuntu.com --recv-keys 6FD77D5EDF966437
+ 1165  sudo apt update
+ 1166  curl -fsSL https://deb.nodesource.com/setup_18.x | sudo -E bash - &&sudo apt-get install -y nodejs
+ 1167  sudo apt-key del 6FD77D5EDF966437
+ 1168  sudo apt-key adv --keyserver keyserver.ubuntu.com --recv-keys 6FD77D5EDF966437
+ 1169  sudo apt update
+ 1170  curl -fsSL https://deb.nodesource.com/setup_18.x | sudo -E bash - &&sudo apt-get install -y nodejs
+ 1171  sudo apt-key del 6FD77D5EDF966437
+ 1172  curl -fsSL https://deb.nodesource.com/setup_18.x | sudo -E bash - &&sudo apt-get install -y nodejs
+ 1173  sudo apt-key adv --keyserver keyserver.ubuntu.com --recv-keys
+ 1174  curl -fsSL https://deb.nodesource.com/setup_18.x | sudo -E bash - &&sudo apt-get install -y nodejs
+ 1175  sudo apt-key adv --keyserver keyserver.ubuntu.com --recv-keys 6FD77D5EDF966437
+ 1176  wget -nv https://download.opensuse.org/repositories/home:strycore/xUbuntu_18.04/Release.key -O Release.key
+ 1177  curl -fsSL https://deb.nodesource.com/setup_18.x | sudo -E bash - &&sudo apt-get install -y nodejs
+ 1178  sudo apt update
+ 1179  node --version
+ 1180  sudo apt-key adv --keyserver keyserver.ubuntu.com --recv-key
+ 1181  OI5ZoB2YluCdNGmo/myjuC6bI5Z4MZ9NiGKvx6sSd/qU+jX52AzcFLLR4J+oAoiU
+ 1182  abC4siqrGLxIQMF5b2T8j/I31X9M9C4mguUcmKEozILVnJujvvOIzWpRjuir14i/
+ 1183  ylpnniocx9zGrQSQuE+3zBwT50WepSniVP1hF97+f9qrXSf1/OnZDrPicB9sINiF
+ 1184  koWCN0+6m5Aw0LBbhLEiqi+BJWzMB2X5TJVW6tGuPySBGzg2wYqbaG79tbwWZzYE
+ 1185  /oTi04HLkSbhq36/IAspGt2huOO5s5sTcvz5ABEBAAG0QmhvbWU6c21wbGF5ZXJk
+ 1186  ZXYgT0JTIFByb2plY3QgPGhvbWU6c21wbGF5ZXJkZXZAYnVpbGQub3BlbnN1c2Uu
+ 1187  b3JnPokBPgQTAQIAKAUCYvpO0QIbAwUJEEqWxAYLCQgHAwIGFQgCCQoLBBYCAwEC
+ 1188  HgECF4AACgkQb9d9Xt+WZDexPAgAiOwa86sgTFJcNjJuReTex/Yc1ki44xAdxONB
+ 1189  VdbUkilBlU6WpG4vYJ4XBglli5npbURIhWh8605bktzX3st3dBm2qUpzx++XUD60
+ 1190  cpESZi3iYr07AWkcE8AfeKi3h8UEIdZQ2LXw7wvtJek6Uu6jGM5u1Jb0gQVV7tiY
+ 1191  y1iwvaxj/i1wxcKXyqRR3/3grAnxIm5yEC0X1d2RleYKj75MTJ/vfFlWHtUcju4D
+ 1192  6A3wfVj4fk+I5oWRzPKJH597A9VPUJWt7AlfxNk0SlP/iPvn0RZeSn50JCR/J7zd
+ 1193  Lt/bkol+X6GW39wwt975mRlv8ck6J9IQPEVJGbJCb8VD10bLYIhGBBMRAgAGBQJW
+ 1194  zmgNAAoJEDswEbdrnWUjSrAAmgMK3NDTikW0Sl10V5jzaNYollhkAKCaXAQaTB3R
+ 1195  qGMsKwrx5FE0dV+FcQ==
+ 1196  sudo apt-key adv --keyserver keyserver.ubuntu.com --recv-keys mQENBFbOaA0BCACzgf53C827CNDrsDCnADSHIaVnRdS6Yjdfo3B2LOFgKAtH89pYOI5ZoB2YluCdNGmomyjuC6bI5Z4MZ9NiGKvx6sSdqU+jX52AzcFLLR4J+oAoiUabC4siqrGLxIQMF5b2T8jI31X9M9C4mguUcmKEozILVnJujvvOIzWpRjuir14iylpnniocx9zGrQSQuE+3zBwT50WepSniVP1hF97+f9qrXSf1OnZDrPicB9sINiFkoWCN0+6m5Aw0LBbhLEiqi+BJWzMB2X5TJVW6tGuPySBGzg2wYqbaG79tbwWZzYEoTi04HLkSbhq36IAspGt2huOO5s5sTcvz5ABEBAAG0QmhvbWU6c21wbGF5ZXJkZXYgT0JTIFByb2plY3QgPGhvbWU6c21wbGF5ZXJkZXZAYnVpbGQub3BlbnN1c2Uub3JnPokBPgQTAQIAKAUCYvpO0QIbAwUJEEqWxAYLCQgHAwIGFQgCCQoLBBYCAwECHgECF4AACgkQb9d9Xt+WZDexPAgAiOwa86sgTFJcNjJuReTexYc1ki44xAdxONBVdbUkilBlU6WpG4vYJ4XBglli5npbURIhWh8605bktzX3st3dBm2qUpzx+XUD60cpESZi3iYr07AWkcE8AfeKi3h8UEIdZQ2LXw7wvtJek6Uu6jGM5u1Jb0gQVV7tiYy1iwvaxji1wxcKXyqRR3/3grAnxIm5yEC0X1d2RleYKj75MTJvfFlWHtUcju4D6A3wfVj4fk+I5oWRzPKJH597A9VPUJWt7AlfxNk0SlPiPvn0RZeSn50JCRJ7zdLtbkol+X6GW39wwt975mRlv8ck6J9IQPEVJGbJCb8VD10bLYIhGBBMRAgAGBQJWzmgNAAoJEDswEbdrnWUjSrAAmgMK3NDTikW0Sl10V5jzaNYollhkAKCaXAQaTB3RqGMsKwrx5FE0dV+FcQ===NV4/
+ 1197  sudo apt update
+ 1198  sudo apt-key adv --keyserver keyserver.ubuntu.com --recv-keys mQENBFbOaA0BCACzgf53C827CNDrsDCnADSHIaVnRdS6Yjdfo3B2LOFgKAtH89pY
+ 1199  OI5ZoB2YluCdNGmo/myjuC6bI5Z4MZ9NiGKvx6sSd/qU+jX52AzcFLLR4J+oAoiU
+ 1200  abC4siqrGLxIQMF5b2T8j/I31X9M9C4mguUcmKEozILVnJujvvOIzWpRjuir14i/
+ 1201  ylpnniocx9zGrQSQuE+3zBwT50WepSniVP1hF97+f9qrXSf1/OnZDrPicB9sINiF
+ 1202  koWCN0+6m5Aw0LBbhLEiqi+BJWzMB2X5TJVW6tGuPySBGzg2wYqbaG79tbwWZzYE
+ 1203  /oTi04HLkSbhq36/IAspGt2huOO5s5sTcvz5ABEBAAG0QmhvbWU6c21wbGF5ZXJk
+ 1204  ZXYgT0JTIFByb2plY3QgPGhvbWU6c21wbGF5ZXJkZXZAYnVpbGQub3BlbnN1c2Uu
+ 1205  b3JnPokBPgQTAQIAKAUCYvpO0QIbAwUJEEqWxAYLCQgHAwIGFQgCCQoLBBYCAwEC
+ 1206  HgECF4AACgkQb9d9Xt+WZDexPAgAiOwa86sgTFJcNjJuReTex/Yc1ki44xAdxONB
+ 1207  VdbUkilBlU6WpG4vYJ4XBglli5npbURIhWh8605bktzX3st3dBm2qUpzx++XUD60
+ 1208  cpESZi3iYr07AWkcE8AfeKi3h8UEIdZQ2LXw7wvtJek6Uu6jGM5u1Jb0gQVV7tiY
+ 1209  y1iwvaxj/i1wxcKXyqRR3/3grAnxIm5yEC0X1d2RleYKj75MTJ/vfFlWHtUcju4D
+ 1210  6A3wfVj4fk+I5oWRzPKJH597A9VPUJWt7AlfxNk0SlP/iPvn0RZeSn50JCR/J7zd
+ 1211  Lt/bkol+X6GW39wwt975mRlv8ck6J9IQPEVJGbJCb8VD10bLYIhGBBMRAgAGBQJW
+ 1212  zmgNAAoJEDswEbdrnWUjSrAAmgMK3NDTikW0Sl10V5jzaNYollhkAKCaXAQaTB3R
+ 1213  qGMsKwrx5FE0dV+FcQ==
+ 1214  =NV4/mQENBFbOaA0BCACzgf53C827CNDrsDCnADSHIaVnRdS6Yjdfo3B2LOFgKAtH89pY
+ 1215  OI5ZoB2YluCdNGmo/myjuC6bI5Z4MZ9NiGKvx6sSd/qU+jX52AzcFLLR4J+oAoiU
+ 1216  abC4siqrGLxIQMF5b2T8j/I31X9M9C4mguUcmKEozILVnJujvvOIzWpRjuir14i/
+ 1217  ylpnniocx9zGrQSQuE+3zBwT50WepSniVP1hF97+f9qrXSf1/OnZDrPicB9sINiF
+ 1218  koWCN0+6m5Aw0LBbhLEiqi+BJWzMB2X5TJVW6tGuPySBGzg2wYqbaG79tbwWZzYE
+ 1219  /oTi04HLkSbhq36/IAspGt2huOO5s5sTcvz5ABEBAAG0QmhvbWU6c21wbGF5ZXJk
+ 1220  ZXYgT0JTIFByb2plY3QgPGhvbWU6c21wbGF5ZXJkZXZAYnVpbGQub3BlbnN1c2Uu
+ 1221  b3JnPokBPgQTAQIAKAUCYvpO0QIbAwUJEEqWxAYLCQgHAwIGFQgCCQoLBBYCAwEC
+ 1222  HgECF4AACgkQb9d9Xt+WZDexPAgAiOwa86sgTFJcNjJuReTex/Yc1ki44xAdxONB
+ 1223  VdbUkilBlU6WpG4vYJ4XBglli5npbURIhWh8605bktzX3st3dBm2qUpzx++XUD60
+ 1224  cpESZi3iYr07AWkcE8AfeKi3h8UEIdZQ2LXw7wvtJek6Uu6jGM5u1Jb0gQVV7tiY
+ 1225  y1iwvaxj/i1wxcKXyqRR3/3grAnxIm5yEC0X1d2RleYKj75MTJ/vfFlWHtUcju4D
+ 1226  6A3wfVj4fk+I5oWRzPKJH597A9VPUJWt7AlfxNk0SlP/iPvn0RZeSn50JCR/J7zd
+ 1227  Lt/bkol+X6GW39wwt975mRlv8ck6J9IQPEVJGbJCb8VD10bLYIhGBBMRAgAGBQJW
+ 1228  zmgNAAoJEDswEbdrnWUjSrAAmgMK3NDTikW0Sl10V5jzaNYollhkAKCaXAQaTB3R
+ 1229  qGMsKwrx5FE0dV+FcQ==
+ 1230  npm run dedStart
+ 1231  npm run devStart
+ 1232  node -v
+ 1233  mongo
+ 1234  sudo apt-get install nodejs
+ 1235  sudo service mongod start
+ 1236  mongo
+ 1237  npm run devStart
+ 1238  sudo apt install curl software-properties-common
+ 1239  curl -fsSL https://deb.nodesource.com/gpgkey/nodesource.gpg.key | sudo gpg --dearmor -o /usr/share/keyrings/nodesource.gpg
+ 1240  echo 'deb [signed-by=/usr/share/keyrings/nodesource.gpg] https://deb.nodesource.com/node_16.x focal main' | sudo tee /etc/apt/sources.list.d/nodesource.list
+ 1241  echo 'deb-src [signed-by=/usr/share/keyrings/nodesource.gpg] https://deb.nodesource.com/node_16.x focal main' | sudo tee -a /etc/apt/sources.list.d/nodesource.list
+ 1242  sudo apt update
+ 1243  sudo apt install -y nodejs
+ 1244  node -v
+ 1245  npm run devStart
+ 1246  mongo
+ 1247  mongoose
+ 1248  npm run devStart
+ 1249  git status
+ 1250  git add .env
+ 1251  git add -f .env
+ 1252  git status
+ 1253  git commit -m "env file"
+ 1254  git push
+ 1255  cd Desktop/
+ 1256  ls
+ 1257  mkdir pr
+ 1258  cd pr
+ 1259  touch magic.py
+ 1260  ls
+ 1261  code .
+ 1262  /usr/bin/python3.7 /home/conert/Desktop/pr/magic.py
+ 1263  npm run devStart
+ 1264  rest
+ 1265  install rest
+ 1266  npm run devStart
+ 1267  ls
+ 1268  code .
+ 1269  /usr/bin/python3.7 /home/conert/Documents/asses/ProblemALG004R.py
+ 1270  git init
+ 1271  ls
+ 1272  git add .
+ 1273  git status
+ 1274  git commit -m "bootstrap and images"
+ 1275  git push
+ 1276  git clone git@github.com:conert1/sport-betting.git
+ 1277  ls
+ 1278  cd sport-betting/
+ 1279  code .
+ 1280  code .
+ 1281  git ststus
+ 1282  git status
+ 1283  git add .
+ 1284  git status
+ 1285  git commit -m "bootstrap files"
+ 1286  git status
+ 1287  git push
+ 1288  ls
+ 1289  git add .
+ 1290  git status
+ 1291  git commit -m "html and css files"
+ 1292  git push
+ 1293  git add .
+ 1294  git status
+ 1295  git commit -m "folder"
+ 1296  git push
+ 1297  code .
+ 1298  cd ..
+ 1299  ls
+ 1300  rm -rf sport-betting
+ 1301  ls
+ 1302  git clone https://github.com/conert1/sport-betting.git
+ 1303  ls
+ 1304  cd sport-betting/
+ 1305  ls
+ 1306  cd ..
+ 1307  cd sport-betting/
+ 1308  code .
+ 1309  git add .
+ 1310  git status
+ 1311  git commit -m "folders"
+ 1312  git push
+ 1313  cd ..
+ 1314  ls
+ 1315  cd ..
+ 1316  ls
+ 1317  git clone https://github.com/Dober09/first-game.git
+ 1318  cd first-game/
+ 1319  code .
+ 1320  touch semi-pause
+ 1321  cat semi-pause 
+ 1322  ls ..
+ 1323  cd ..
+ 1324  ls
+ 1325  cd cos3711/
+ 1326  ls
+ 1327  cat Processes\ and\ Threads.docx
+ 1328  62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c
+ 1329  ls
+ 1330  cat notes.docx 
+ 1331  ls
+ 1332  cd ..
+ 1333  la
+ 1334  cat one.html 
+ 1335  npm init @vitejs/app
+ 1336  code .
+ 1337  git status
+ 1338  git init
+ 1339  git add .
+ 1340  git status
+ 1341  git commit "three.js"
+ 1342  git commit -m "three.js"
+ 1343  git status
+ 1344  git commit -m "three"
+ 1345  git push
+ 1346  git remote add https://github.com/conert1/
+ 1347  git push origin main
+ 1348  git remote add https://github.com/conert1/who-am-I-.git
+ 1349  ls
+ 1350  code .
+ 1351  git clone https://github.com/conert1/who-am-I-.git
+ 1352  ls
+ 1353  cd who-am-I-/
+ 1354  ls
+ 1355  git status
+ 1356  git add .
+ 1357  git atatus
+ 1358  git status
+ 1359  git commit -m "three"
+ 1360  git push
+ 1361  code .
+ 1362  git add .
+ 1363  git commit -m "scroll"
+ 1364  git push
+ 1365  code .
+ 1366  git clone https://github.com/conert1/personal-profile.git
+ 1367  ls
+ 1368  cd personal-profile/
+ 1369  ls
+ 1370  code .
+ 1371  git add .
+ 1372  git status
+ 1373  git commit -m '3D'
+ 1374  git push
+ 1375  git add .
+ 1376  git status
+ 1377  git commit -m "clean main"
+ 1378  git push
+ 1379  git status
+ 1380  git add .
+ 1381  git commit -m "pic"
+ 1382  git push
+ 1383  git add .
+ 1384  git commit -m "pic"
+ 1385  git push
+ 1386  git status
+ 1387  code .
+ 1388  git add .
+ 1389  git status
+ 1390  git commit -m "changes"
+ 1391  git push
+ 1392  ls
+ 1393  git status
+ 1394  git add .
+ 1395  git status
+ 1396  git commit -m "code C"
+ 1397  git push
+ 1398  git status
+ 1399  git add .
+ 1400  git commit -m "link"
+ 1401  git push
+ 1402  git clone https://gitlab.wethinkco.de/bumokat022/jhb3.git
+ 1403  git clone git@gitlab.wethinkco.de:bumokat022/jhb3.git
+ 1404  ls
+ 1405  cd booking-app/
+ 1406  ls
+ 1407  git clone https://github.com/conert1/boardroom-booking.git
+ 1408  ls 
+ 1409  cd boardroom-booking/
+ 1410  ls
+ 1411  code .
+ 1412  code .
+ 1413  code .
+ 1414  ls
+ 1415  code .
+ 1416  git status 
+ 1417  git add .
+ 1418  git status
+ 1419  git commit "hangman"
+ 1420  git commit -m "one page done"
+ 1421  git push
+ 1422  git status
+ 1423  git add .
+ 1424  git commit
+ 1425  git status
+ 1426  git commit -m "first page designed"
+ 1427  git push
+ 1428  git status
+ 1429  git add .
+ 1430  ls
+ 1431  git status
+ 1432  git add .
+ 1433  git status
+ 1434  git commit -m "Added project link"
+ 1435  git push
+ 1436  ls
+ 1437  git clone https://github.com/conert1/word-play.git
+ 1438  cd word-play/
+ 1439  ls
+ 1440  code .
+ 1441  cd ..
+ 1442  ls
+ 1443  cd profile/personal-profile/
+ 1444  ls
+ 1445  code .
+ 1446  git status
+ 1447  ls
+ 1448  git add hangman/
+ 1449  git status
+ 1450  git checkout hangman/
+ 1451  git status
+ 1452  git remove hangman/
+ 1453  git --help
+ 1454  git rm hangman/
+ 1455  git status
+ 1456  git log
+ 1457  git submodule status
+ 1458  git submodule init
+ 1459  git submodule deinit hangman
+ 1460  git status
+ 1461  git push
+ 1462  git add hangman/
+ 1463  git status
+ 1464  git add ss
+ 1465  git status
+ 1466  git add .
+ 1467  git status
+ 1468  git commit "fixing"
+ 1469  git commit -m "fixing"
+ 1470  git push
+ 1471  git status
+ 1472  git add game/
+ 1473  git status
+ 1474  git commit -m "game"
+ 1475  git push
+ 1476  git status
+ 1477  git add index.html 
+ 1478  git status
+ 1479  git commit -m "index"
+ 1480  git push
+ 1481  ls
+ 1482  code .
+ 1483  node test
+ 1484  node global
+ 1485  node .module
+ 1486  node module
+ 1487  node files
+ 1488  node streams
+ 1489  node files
+ 1490  node streams
+ 1491  clear
+ 1492  node streams
+ 1493  node Streams
+ 1494  node streams
+ 1495  code .
+ 1496  node serverr
+ 1497  node server
+ 1498  cd ..
+ 1499  cd 
+ 1500  cd Desktop/
+ 1501  cd three/
+ 1502  ls
+ 1503  cd word-play/
+ 1504  ls
+ 1505  node server
+ 1506  cd ..
+ 1507  cd node/
+ 1508  ld
+ 1509  ls
+ 1510  cd #3
+ 1511  ls
+ 1512  cd Desktop/node/#3/
+ 1513  ls
+ 1514  node server
+ 1515  cd
+ 1516  ls
+ 1517  cd
+ 1518  cd ..
+ 1519  ls
+ 1520  cd conert/
+ 1521  ls
+ 1522  cd ..
+ 1523  ls
+ 1524  cd home/
+ 1525  ls
+ 1526  cd conert/
+ 1527  ls
+ 1528  cd De
+ 1529  cd Desktop/
+ 1530  ls
+ 1531  cd three/
+ 1532  ls
+ 1533  cd word-play/
+ 1534  ls
+ 1535  cd ..
+ 1536  cd node/
+ 1537  ls
+ 1538  cd #3
+ 1539  cd Desktop/
+ 1540  cd node/#3/
+ 1541  ls
+ 1542  node server
+ 1543  cd views/
+ 1544  cd ..
+ 1545  node server
+ 1546  npm insall -g nodemon
+ 1547  npm intsall -g nodemon
+ 1548  npm install -g nodemon
+ 1549  sudo npm install -g nodemon
+ 1550  nodemon server
+ 1551  npm init
+ 1552  npm i lodash
+ 1553  nodemon server
+ 1554  code .
+ 1555  cd ..
+ 1556  ls
+ 1557  code .
+ 1558  cd ..
+ 1559  ls
+ 1560  cd \#6/
+ 1561  ls
+ 1562  code .
+ 1563  nodemon server
+ 1564  npm install
+ 1565  nodemon server
+ 1566  python
+ 1567  npm install express
+ 1568  nodemon server
+ 1569  nodemon app
+ 1570  npm install
+ 1571  nodemon app
+ 1572  npm install ejs
+ 1573  code .
+ 1574  git init
+ 1575  git add .
+ 1576  git commit -m "first comm<svg fill="none" viewBox="0 0 600 300" width="600" height="300" xmlns="http://www.w3.org/2000/svg">"
+ 1577  git status
+ 1578  git commit -m ""
+ 1579  git commit -m "."
+ 1580  git status
+ 1581  git push
+ 1582  code .
+ 1583  code .
+ 1584  ls
+ 1585  git clone git@github.com:conert1/landing-site.git
+ 1586  ls
+ 1587  cd landing-site/
+ 1588  ls
+ 1589  runplayer.sh
+ 1590  runplayer
+ 1591  mvn 
+ 1592  code .
+ 1593  nodemon app
+ 1594  F
+ 1595  code .
+ 1596  nodemon app
+ 1597  code .
+ 1598  npm install
+ 1599  nodemon app
+ 1600  mongoose
+ 1601  npm install mongoose
+ 1602  mongo
+ 1603  nodemon app
+ 1604  install mongodb
+ 1605  nmp install mongodb
+ 1606  npm install mongodb
+ 1607  nodemon app
+ 1608  ls
+ 1609  code .
+ 1610  touch informedSearch.txt
+ 1611  ls
+ 1612  cd ..
+ 1613  ls
+ 1614  cd profile/
+ 1615  ls
+ 1616  cd hangman/
+ 1617  ls
+ 1618  code .
+ 1619  nodemon app
+ 1620  /usr/bin/python3.7 /home/conert/Downloads/asses/Event-Scheduler-Application/scheduler.py
+ 1621  r/usr/bin/python3.7 /home/conert/Downloads/asses/Event-Scheduler-Application/scheduler.py
+ 1622  /usr/bin/python3.7 /home/conert/Downloads/asses/Event-Scheduler-Application/scheduler.py
+ 1623  r/usr/bin/python3.7 /home/conert/Downloads/asses/Event-Scheduler-Application/scheduler.py
+ 1624  /usr/bin/python3.7 /home/conert/Downloads/asses/Event-Scheduler-Application/scheduler.py
+ 1625  git add .
+ 1626  ls
+ 1627  cd Event-Scheduler-Application/
+ 1628  ls
+ 1629  git status
+ 1630  git add .
+ 1631  git status
+ 1632  git commit -m "submission"
+ 1633  git push
+ 1634  git add .
+ 1635  git commit -m "added tests"
+ 1636  git push
+ 1637  git add .
+ 1638  git commit -m "final push"
+ 1639  git push
+ 1640  touch coding-challenge
+ 1641  git clone https://github.com/conert1/Event-Scheduler-Application.git
+ 1642  code .
+ 1643  cd ~/Downloads/AI/ch5/
+ 1644  ls
+ 1645  touch
+ 1646  touch adverserial_search.txt
+ 1647  who am i
+ 1648  ls
+ 1649  /usr/bin/python3.7 /home/conert/Downloads/asses/Event-Scheduler-Application/scheduler.py
+ 1650  sudo dmidecode | grep Version
+ 1651  sudo dmidecode | less
+ 1652  sudo dmidecode | grep Version
+ 1653  node hello.js
+ 1654  node one.js
+ 1655  node task1.js 
+ 1656  node task2.js 
+ 1657  node task3.js 
+ 1658  node task4.js 
+ 1659  node task6.js 
+ 1660  node task4.js 
+ 1661  node task7.js 
+ 1662  node task4.js 
+ 1663  node task7.js 
+ 1664  node task8.js 
+ 1665  node task9.js 
+ 1666  node task10.js 
+ 1667  code .
+ 1668  cd ..
+ 1669  cd one/
+ 1670  ls
+ 1671  code .
+ 1672  touch task1.js
+ 1673  ls
+ 1674  code .
+ 1675  node task9.js 
+ 1676  node task10.js 
+ 1677  node task9.js 
+ 1678  node task10.js 
+ 1679  node task9.js 
+ 1680  node task10.js 
+ 1681  node task9.js 
+ 1682  node task10.js 
+ 1683  git  status
+ 1684  ls /
+ 1685  ls
+ 1686  ls /
+ 1687  pwd
+ 1688  cd home
+ 1689  man ls
+ 1690  ls
+ 1691  mkdir directory git-basic-exercises?
+ 1692  rm directory git-basic-exercises?
+ 1693  rm -rf directory git-basic-exercises?
+ 1694  ls
+ 1695  git status
+ 1696  git add .
+ 1697  git status
+ 1698  git commit -m "beginning bash"
+ 1699  git push
+ 1700  git diff
+ 1701  git config globally
+ 1702  ls
+ 1703  git branch
+ 1704  touch important.md
+ 1705  git clone git@github.com:Umuzi-org/Conert-Mavuso-606-tilde-project-tutorial-how-repo-projects-work-.git
+ 1706  ls
+ 1707  rm -rf Conert-Mavuso-606-tilde-project-tutorial-how-repo-projects-work-/
+ 1708  cd Documents/umuzi/branch/
+ 1709  ls
+ 1710  git clone git@github.com:Umuzi-org/Conert-Mavuso-606-tilde-project-tutorial-how-repo-projects-work-.git
+ 1711  cd Conert-Mavuso-606-tilde-project-tutorial-how-repo-projects-work-/
+ 1712  ls
+ 1713  code .
+ 1714  ls
+ 1715  rm important.md 
+ 1716  ls
+ 1717  git status
+ 1718  git add .
+ 1719  git status
+ 1720  git commit -m ""
+ 1721  git push
+ 1722  git pull
+ 1723  rm important.md 
+ 1724  git status
+ 1725  git add .
+ 1726  git commit -m ""
+ 1727  git commit -m "delete important.md"
+ 1728  git push
+ 1729  git branch
+ 1730  node uu.js 
+ 1731  git branch
+ 1732  node uu.js 
+ 1733  rm uu.js 
+ 1734  git branch
+ 1735  git checkout my_branch
+ 1736  node u.js 
+ 1737  cd Documents/umuzi/'ls
+ 1738  cd Documents/umuzi/
+ 1739  ls
+ 1740  git status
+ 1741  git add .
+ 1742  git commit -m "answers"
+ 1743  git push
+ 1744  code .
+ 1745  git clone git@github.com:Umuzi-org/Conert-Mavuso-585-understanding-the-review-column-.git
+ 1746  cd Conert-Mavuso-585-understanding-the-review-column-/
+ 1747  code .
+ 1748  cd ..
+ 1749  ls
+ 1750  mkdir leve1_coding_challenges
+ 1751  cd leve1_coding_challenges/
+ 1752  ls
+ 1753  git clone git@github.com:Umuzi-org/Conert-Mavuso-219-level-1-programming-katas-javascript.git
+ 1754  cd Conert-Mavuso-219-level-1-programming-katas-javascript/
+ 1755  ls
+ 1756  cd ..
+ 1757  ls
+ 1758  cd Conert-Mavuso-219-level-1-programming-katas-javascript/
+ 1759  code .
+ 1760  git branch
+ 1761  git checkout main
+ 1762  git pull
+ 1763  git checkout -b task/1
+ 1764  git branch
+ 1765  node task1.js 
+ 1766  git branch
+ 1767  git add task1.js 
+ 1768  git status
+ 1769  git commit -m "task1"
+ 1770  git push
+ 1771  git push -u origin/task/1
+ 1772  git push origin -u task/1
+ 1773  git status
+ 1774  git branch
+ 1775  git checkout main
+ 1776  git branch
+ 1777  git pull
+ 1778  git branch
+ 1779  git checkout -b task/2
+ 1780  git branch
+ 1781  git status
+ 1782  touch task2.js
+ 1783  git checkout -b task/1
+ 1784  git checkout task/1
+ 1785  git status
+ 1786  node task1.js 
+ 1787  git status
+ 1788  git branch
+ 1789  git add task1.js 
+ 1790  git commit -m "task1"
+ 1791  git push
+ 1792  git checkout task/2
+ 1793  git status
+ 1794  node task2.js 
+ 1795  git status
+ 1796  git branch
+ 1797  git add task2.js 
+ 1798  git status
+ 1799  git commit -m "task2"
+ 1800  git push origin -u task/2
+ 1801  node task5.js 
+ 1802  git push origin -u task/2
+ 1803  node task5.js 
+ 1804  git branch
+ 1805  git add task5.js 
+ 1806  git status
+ 1807  git commit -m "task5"
+ 1808  git push origin -u task/5 
+ 1809  git branch
+ 1810  git checkout main
+ 1811  git branch
+ 1812  git checkout main
+ 1813  git commit -m "task5"
+ 1814  git add task5.js 
+ 1815  git commit -m "task5"
+ 1816  git checkout main
+ 1817  git branch
+ 1818  git pull
+ 1819  git checkout -b task/6
+ 1820  git branch
+ 1821  rm task1.js 
+ 1822  touch task6.js
+ 1823  node task6.js
+ 1824  git branch
+ 1825  git add task6.js 
+ 1826  git status
+ 1827  git commit -m "task6"
+ 1828  git push origin -u task/6 
+ 1829  git status
+ 1830  git checkout main
+ 1831  git branch
+ 1832  git checkout task/7
+ 1833  git checkout -b task/7
+ 1834  git branch
+ 1835  touch task7.js
+ 1836  node task7.js 
+ 1837  git branch
+ 1838  git add task7.js 
+ 1839  git commit -m "task7"
+ 1840  git push origin -u task/7 
+ 1841  node yy.js 
+ 1842  git add task7.js 
+ 1843  node yy.js 
+ 1844  git branch
+ 1845  git checkout task/2
+ 1846  git status
+ 1847  git pull
+ 1848  git status
+ 1849  rm task1.js 
+ 1850  git status
+ 1851  git commit -m "task2"
+ 1852  git push
+ 1853  git status
+ 1854  git add task2.js 
+ 1855  git status
+ 1856  git add task2.js 
+ 1857  git status
+ 1858  git commit -m "task2"
+ 1859  git push
+ 1860  git rm task1.js 
+ 1861  git commit -m "removed task1"
+ 1862  git branch
+ 1863  git push
+ 1864  git branch
+ 1865  git pull
+ 1866  touch task1.js
+ 1867  git status
+ 1868  git add task1.js 
+ 1869  git checkout main
+ 1870  git branch -d task/2 
+ 1871  git branch
+ 1872  git checkout -b task/2
+ 1873  git branch
+ 1874  ls
+ 1875  git pull
+ 1876  touch task2.js
+ 1877  git add task2.js 
+ 1878  git commit -m "task2"
+ 1879  git push origin -u task/2 
+ 1880  git status
+ 1881  git pull
+ 1882  git status
+ 1883  git branch
+ 1884  git pull
+ 1885  git pull origin task/2
+ 1886  git status
+ 1887  git add task2.js 
+ 1888  git status
+ 1889  git add task2.js 
+ 1890  git commit -m "task2"
+ 1891  git branch
+ 1892  git push
+ 1893  git push origin -u task/2 
+ 1894  git rm yy.js 
+ 1895  git commit -m "removed rr"
+ 1896  git push
+ 1897  git branch
+ 1898  git checkout task/1 
+ 1899  git status
+ 1900  git checkout main 
+ 1901  git branch
+ 1902  git rm task1.js 
+ 1903  git commit -m "removed an unwanted file"
+ 1904  git push
+ 1905  git branch task/1
+ 1906  git checkout  task/1
+ 1907  git branch
+ 1908  git status
+ 1909  git add task1.js 
+ 1910  git status
+ 1911  git commit -m "task1"
+ 1912  git branch
+ 1913  git push
+ 1914  git pull
+ 1915  git pull origin task1.js
+ 1916  git status
+ 1917  git branch
+ 1918  git branch -d task/1
+ 1919  git branch
+ 1920  git checkout main 
+ 1921  git branch
+ 1922  git branch -d task/1
+ 1923  git checkout -b task/1
+ 1924  git branch
+ 1925  touch task1.js
+ 1926  git pull
+ 1927  git pull origin task/1 
+ 1928  git status
+ 1929  git add task1.js 
+ 1930  git status
+ 1931  git commit -m "task1"
+ 1932  git push
+ 1933  git push origin -u task/1 
+ 1934  git status
+ 1935  git branch
+ 1936  git branch -d task/2
+ 1937  git branch
+ 1938  git checkout -b task/2
+ 1939  git branch
+ 1940  git status
+ 1941  ls
+ 1942  git status
+ 1943  touch task2.js
+ 1944  git add task2.js 
+ 1945  git status 
+ 1946  git commit -m "task2"
+ 1947  git push origin -u task/2 
+ 1948  git rm task1.js 
+ 1949  git commit -m "removed task1"
+ 1950  git push
+ 1951  ls
+ 1952  git branch
+ 1953  git branch -d task/3
+ 1954  git branch
+ 1955  git checkout -b task/3
+ 1956  git branch
+ 1957  git status
+ 1958  git pull
+ 1959  git pull origin task/3
+ 1960  touch task3.js
+ 1961  git status
+ 1962  git add task3.js 
+ 1963  git commit -m "task3"
+ 1964  git push origin -u task/3 
+ 1965  git rm task2.js 
+ 1966  git commit -m "task3"
+ 1967  git push
+ 1968  git branch
+ 1969  git checkout task/4 
+ 1970  git status
+ 1971  git rm task1.js 
+ 1972  git commit -m "removed 1"
+ 1973  git status
+ 1974  git branch
+ 1975  git push
+ 1976  git checkout task/5
+ 1977  git branch
+ 1978  git rm task1.js 
+ 1979  git commit -m "removed task1"
+ 1980  git push
+ 1981  git branch
+ 1982  git checkout task/6
+ 1983  git branch
+ 1984  git rm task1.js 
+ 1985  git commit -m "removed task1"
+ 1986  git push
+ 1987  git branch
+ 1988  git checkout task/7
+ 1989  git branch
+ 1990  git rm task1.js 
+ 1991  git commit "removed the unwanted file"
+ 1992  git commit -m "removed the unwanted file"
+ 1993  git push
+ 1994  ls
+ 1995  ls -a
+ 1996  git init
+ 1997  ls -a
+ 1998  git status
+ 1999  touch README.md
+ 2000  ls
+ 2001  git status
+ 2002  git log
+ 2003  git add
+ 2004  git add README.md 
+ 2005  git status
+ 2006  git rm --cached README.md 
+ 2007  git status
+ 2008  git add README.md 
+ 2009  git commit "initial commit"
+ 2010  git commit -m "initial commit"
+ 2011  git log
+ 2012  q
+ 2013  nano README.md 
+ 2014  cat README.md 
+ 2015  git status
+ 2016  git commit -m "second commit"
+ 2017  git add README.md 
+ 2018  git commit -m "second commit"
+ 2019  nano README.md 
+ 2020  cat README.md 
+ 2021  git status
+ 2022  git add README.md 
+ 2023  git commit -m "third commit"
+ 2024  git log
+ 2025  git checkout 2b5f3117dea2446c4a9653412e56769123f6e1e7
+ 2026  cat README.md 
+ 2027  git checkout main
+ 2028* git 
+ 2029  git checkout master
+ 2030  cat README.md 
+ 2031  git checkout -b milkshake-flavours
+ 2032  git branch 
+ 2033  ls
+ 2034  nano milkshakes.md
+ 2035  cat milkshakes
+ 2036  cat milkshakes.md 
+ 2037  git status
+ 2038  git add milkshakes.md 
+ 2039  git commit -m "added initial flavours"
+ 2040  git log
+ 2041  git checkout master 
+ 2042  ls
+ 2043  git log
+ 2044  git checkout -b history
+ 2045  git log
+ 2046  git branch
+ 2047  history > history.txt
